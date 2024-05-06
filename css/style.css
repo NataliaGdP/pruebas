@@ -1,3 +1,9 @@
-.table{
-    background-color: aqua;
+table, table td, table th{
+    border: solid 3px blue;
+    border-radius: 0.2rem;
+    margin: 1rem;
+    text-align: center;
+    padding: 0.5rem;
+    color: black;
+    font-size: 2rem;
 }
